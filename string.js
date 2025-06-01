@@ -20,7 +20,7 @@ console.log(name.toLowerCase());//hello world
 console.log(name.includes("Hello"));//true
 console.log(name.includes("sir"));//false
 
-//split -> splits the string using the character and places them in array
+//split -> splits the string using the character specified and places them in array
 
 console.log(name.split(" "));//['Hello','world]
 console.log(name.split("l"));//['He','','o wor','d']
